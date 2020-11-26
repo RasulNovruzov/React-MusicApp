@@ -1,0 +1,16 @@
+h2 {
+    text-align: center;
+    animation: type 1.5s steps(7);
+    overflow: hidden;
+    width: 8ch;
+}
+
+@keyframes type {
+    0% {
+        width: 0ch;
+    }
+
+    100% {
+        width: 7ch;
+    }
+}
