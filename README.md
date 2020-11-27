@@ -1,1 +1,1 @@
-music-app-beryl.vercel.app
+https://music-app-beryl.vercel.app/
